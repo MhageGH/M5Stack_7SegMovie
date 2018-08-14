@@ -15,7 +15,7 @@
 ![unit](doc/unit.jpg) 
 - Board× 4 : Elecrow and so on.
 - [gerber](doc/gerber.zip) gerber data for manufacturing PCB 
-- 3.3V signal level has been converted to 5V
+- 3.3V signal level for M5Stack has to be converted to 5V for LED Controller Driver.
 - ![level conversion board](doc/level_conversion_board.jpg)
 
 ## Create data of 7SegMovie
