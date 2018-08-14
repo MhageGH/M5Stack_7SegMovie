@@ -1,6 +1,6 @@
 # M5Stack_7SegMovie
 ![Movie](doc/7SegMovie.png)
-[Movie](https://twitter.com/Tw_Mhage/status/1004363276761772032)
+- [Movie](https://twitter.com/Tw_Mhage/status/1004363276761772032)
 
 ## Prepare
 - [M5Stack](https://www.switch-science.com/catalog/3647/)  Main board : Switch Science
