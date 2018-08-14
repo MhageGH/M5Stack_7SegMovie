@@ -13,8 +13,8 @@
 ![Layout](doc/layout.jpg)
 ![board](doc/board.jpg) 
 ![unit](doc/unit.jpg) 
-- Board× 4 : Elecrow and so on.
-- [gerber](doc/gerber.zip) gerber data for manufacturing PCB 
+- use 4 Handmade Boards. A board has 2 LED Controller Driver and controls 8 Four Digit Displays.
+- [gerber](doc/gerber.zip) : Data for manufacturing PCB. Format for Elecrow and so on.
 - The drivers are distinguished by jumper pad (R6, R7, R8, R12, R13, R14).
 - ![Driver ID](doc/DriverID.jpg)
 - 3.3V signal level for M5Stack has to be converted to 5V for LED Controller Driver.
