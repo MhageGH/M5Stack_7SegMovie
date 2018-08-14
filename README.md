@@ -23,5 +23,5 @@ You can make from 160x120 black-and-white bitmap file series. See Create7SegMovi
 - [arduino-esp32](https://github.com/espressif/arduino-esp32)
 
 ## Original
-http://www.nicovideo.jp/watch/sm8628149
-http://www.nicovideo.jp/watch/sm27598174
+- http://www.nicovideo.jp/watch/sm8628149
+- http://www.nicovideo.jp/watch/sm27598174
