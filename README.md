@@ -15,8 +15,11 @@
 ![unit](doc/unit.jpg) 
 - Board× 4 : Elecrow and so on.
 - [gerber](doc/gerber.zip) gerber data for manufacturing PCB 
+- The drivers are distinguished by jumper pad (R6, R7, R8, R12, R13, R14).
+- ![Driver ID](doc/Driver ID.jpg)
 - 3.3V signal level for M5Stack has to be converted to 5V for LED Controller Driver.
 - ![level conversion board](doc/level_conversion_board.jpg)
+- ![all](doc/all.jpg)
 
 ## Create data of 7SegMovie
 You can make from 160x120 black-and-white bitmap file series. See Create7SegMovieData/Program.cs.
