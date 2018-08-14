@@ -23,7 +23,7 @@
 
 ## Create data of 7SegMovie
 - Make from 160x120 black-and-white bitmap file series. See Create7SegMovieData/Program.cs.
-- You can get a dat file. Put the file with a jpeg file for LCD into a SD card and set it to the slot.
+- You can get a dat file(or use the dat file in this repository). Put the file with a jpeg file for LCD into a SD card and set it to the slot.
 - Play the dat file by M5Stack.
 
 ## Development Environment
