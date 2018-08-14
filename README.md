@@ -16,7 +16,7 @@
 - [gerber](doc/gerber.zip) gerber data for manufacturing PCB 
 
 ## Create data of 7SegMovie
-You can make from 160x120 bitmap file series. See Create7SegMovieData/Program.cs.
+You can make from 160x120 black-and-white bitmap file series. See Create7SegMovieData/Program.cs.
 
 ## Development Environment
 - [Arduino IDE](https://www.arduino.cc/en/main/software)
