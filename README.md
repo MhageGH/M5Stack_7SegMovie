@@ -8,9 +8,10 @@
 - [OSL40562-IB] : 0.56 Inch Four Digit Display. Common Anode type.
 
 ## Handmade Board
-- ![Schematic](doc/circuit.jpg)
-- ![Layout](doc/layout.jpg)
-- ![board](doc/board.jpg) × 4 : Elecrow and so on.
+![Schematic](doc/circuit.jpg)
+![Layout](doc/layout.jpg)
+![board](doc/board.jpg) 
+- Board× 4 : Elecrow and so on.
 - [gerber](doc/gerber.zip) gerber data for manufacturing PCB 
 
 ## Create data of 7SegMovie
