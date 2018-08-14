@@ -16,7 +16,7 @@
 - Board× 4 : Elecrow and so on.
 - [gerber](doc/gerber.zip) gerber data for manufacturing PCB 
 - The drivers are distinguished by jumper pad (R6, R7, R8, R12, R13, R14).
-- ![Driver ID](doc/Driver ID.jpg)
+- ![Driver ID](doc/Driver ID.JPG)
 - 3.3V signal level for M5Stack has to be converted to 5V for LED Controller Driver.
 - ![level conversion board](doc/level_conversion_board.jpg)
 - ![all](doc/all.jpg)
